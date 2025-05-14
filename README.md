@@ -10,13 +10,10 @@
 <h3 align="left">🌐 Connect me via:</h3>
 <p align="left">
   <!-- Add your actual profile links below -->
-<a href="https://linkedin.com/in/www.linkedin.com/in/ nibretu-mengaw-1a895b365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ nibretu-mengaw-1a895b365" height="30" width="40" /></a>
-  <a href="mailto:nibretumengaw@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<a href="https://www.linkedin.com/in/nibretu-mengaw-1a895b365" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nibretu Mengaw LinkedIn" height="30" width="40" />
+</a>
+ 
 </p>
 
 <!-- Languages and Tools -->
