@@ -7,16 +7,16 @@
 
 
 <!-- Connect with Me -->
+<!--
 <h3 align="left">🌐 Connect me via:</h3>
-<p align="left">
-  <!-- Add your actual profile links below -->
+<p align="left"> 
 <a href="https://www.linkedin.com/in/nibretu-mengaw-1a895b365" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nibretu Mengaw LinkedIn" height="30" width="40" />
 </a> 
-</p>
+</p>  -->
 
 <!-- Languages and Tools -->
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Skills :</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
