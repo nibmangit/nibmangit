@@ -7,7 +7,7 @@
 
 
 <!-- Connect with Me -->
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect me via:</h3>
 <p align="left">
   <!-- Add your actual profile links below -->
   <a href="www.linkedin.com/in/
