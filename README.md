@@ -12,8 +12,7 @@
   <!-- Add your actual profile links below -->
 <a href="https://www.linkedin.com/in/nibretu-mengaw-1a895b365" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nibretu Mengaw LinkedIn" height="30" width="40" />
-</a>
- 
+</a> 
 </p>
 
 <!-- Languages and Tools -->
