@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nibretu Mengaw</h1> 
 
 <p align="center">
-  🚀 Full-Stack Web Developer | React • Django • REST APIs <br/>
+ 🚀 Software Engineering Student | Full-Stack Developer (React • Django • REST APIs) <br/>
   📍 Bahir Dar, Ethiopia
 </p>
 
@@ -47,8 +47,8 @@
 <ul>
   <li>Building modern web applications with <strong>React</strong> and <strong>Django</strong></li>
   <li>Experience with REST APIs, authentication, and email services</li>
-  <li>Currently part of the <strong>Future Interns Full-Stack Program</strong></li>
-  <li>Focused on clean code, security, and real-world projects</li>
+  <li>Focused on developing full-stack projects with clean, scalable, and secure code</li>
+  <li>Passionate about software engineering and real-world problem solving</li>
 </ul>
 
 <hr/>
